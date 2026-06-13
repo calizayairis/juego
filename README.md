@@ -60,11 +60,11 @@ TiendaJuegos/
 
 ### 📄 Manual Técnico
 
-➡️ **[Descargar Manual Técnico](docs/Manual_Tecnico_STOREGG.docx)**
+➡️ **[Descargar Manual Técnico](https://github.com/calizayairis/juego/blob/main/MANUAL%20T%C3%89CNICO.pdf)**
 
-### 💾 Proyecto Comprimido
+### 💾 Manual de Usuario
 
-➡️ **[Descargar Proyecto](releases/STOREGG.zip)**
+➡️ **[Descargar Manual Usuario]([releases/STOREGG.zip](https://github.com/calizayairis/juego/blob/main/MANUAL%20DE%20USUARIO.pdf))**
 
 ---
 
